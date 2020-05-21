@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8d8d5db-e729-462b-aa6a-a2d2b273d584" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bsiIfth1TbwuEUvzfnbSoGDzB5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Desktop/springboot/src/main/resources/templates/home.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learning\大二下\软件工程\html5\static" />
+      <recent name="D:\Learning\大二下\软件工程\html5\images" />
+      <recent name="D:\Learning\大二下\软件工程\html5\css" />
+      <recent name="D:\Learning\大二下\软件工程\html5\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learning\大二下\软件工程\html" />
+      <recent name="D:\Learning\大二下\软件工程\html5\static\asserts" />
+      <recent name="D:\Learning\大二下\软件工程\html5\templates" />
+      <recent name="D:\Learning\大二下\软件工程\html5\css" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8d8d5db-e729-462b-aa6a-a2d2b273d584" name="Default Changelist" comment="" />
+      <created>1589427123577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589427123577</updated>
+      <workItem from="1589427127174" duration="4664000" />
+      <workItem from="1589439964288" duration="2585000" />
+      <workItem from="1589544590133" duration="15000" />
+      <workItem from="1589858904143" duration="15694000" />
+      <workItem from="1589943182862" duration="16053000" />
+      <workItem from="1590031961634" duration="7815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1590036533675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1590036533675" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1590044915621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590044915621" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1590033140692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590033140692" />
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1590031960498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590031960498" />
+    <state x="457" y="44" width="621" height="735" key="find.popup" timestamp="1589952315673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="44" width="621" height="735" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1589952315673" />
+    <state x="413" y="139" width="966" height="546" key="new project wizard" timestamp="1590032769749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="413" y="139" width="966" height="546" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590032769749" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589427561219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589427561219" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1589952187539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589952187539" />
+  </component>
+</project>
